@@ -13,6 +13,7 @@
 		E90F3FFA1BA818FB00B5ED05 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E90F3FF91BA818FB00B5ED05 /* Images.xcassets */; };
 		E90F3FFD1BA818FB00B5ED05 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E90F3FFB1BA818FB00B5ED05 /* LaunchScreen.xib */; };
 		E90F40091BA818FC00B5ED05 /* PokedexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E90F40081BA818FC00B5ED05 /* PokedexTests.swift */; };
+		E90F40131BA81B7400B5ED05 /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = E90F40121BA81B7400B5ED05 /* pokemon.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		E90F40021BA818FC00B5ED05 /* PokedexTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PokedexTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E90F40071BA818FC00B5ED05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E90F40081BA818FC00B5ED05 /* PokedexTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexTests.swift; sourceTree = "<group>"; };
+		E90F40121BA81B7400B5ED05 /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				E90F3FF41BA818FB00B5ED05 /* ViewController.swift */,
 				E90F3FF61BA818FB00B5ED05 /* Main.storyboard */,
 				E90F3FF91BA818FB00B5ED05 /* Images.xcassets */,
+				E90F40121BA81B7400B5ED05 /* pokemon.csv */,
 				E90F3FFB1BA818FB00B5ED05 /* LaunchScreen.xib */,
 				E90F3FF01BA818FB00B5ED05 /* Supporting Files */,
 			);
@@ -194,6 +197,7 @@
 			files = (
 				E90F3FF81BA818FB00B5ED05 /* Main.storyboard in Resources */,
 				E90F3FFD1BA818FB00B5ED05 /* LaunchScreen.xib in Resources */,
+				E90F40131BA81B7400B5ED05 /* pokemon.csv in Resources */,
 				E90F3FFA1BA818FB00B5ED05 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

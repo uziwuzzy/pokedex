@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AA5325AC-E35B-4718-BBEB-FC998E9EB4C8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>80FB70EED73C83F4FF7717EDE4ED2F2D67CB6844</key>
+		<string>https://github.com/uziwuzzy/pokedex.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pokedex.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>80FB70EED73C83F4FF7717EDE4ED2F2D67CB6844</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/uziwuzzy/pokedex.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80FB70EED73C83F4FF7717EDE4ED2F2D67CB6844</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80FB70EED73C83F4FF7717EDE4ED2F2D67CB6844</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Pokedex</string>
+		</dict>
+	</array>
+</dict>
+</plist>
